@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>sparkleUpdateTest</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Tue, 14 Jan 2025 15:39:54 +0100</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/gabrielCastilloSerafim/sparkleUpdateTest/releases/download/prod/sparkleUpdateTest.dmg" length="853764" type="application/octet-stream" sparkle:edSignature="BbLmZNHots2HeEhvmL4XLYJJnRjdmsMa6GR0e9QaFOCSEORJnVGSC9NY3ZeooPDaBQ+jGFTE+ET9pmiXhdmdBw=="/>
+        </item>
+    </channel>
+</rss>
