@@ -3,12 +3,12 @@
     <channel>
         <title>sparkleUpdateTest</title>
         <item>
-            <title>1.3</title>
+            <title>1.2</title>
             <pubDate>Wed, 15 Jan 2025 08:38:51 +0100</pubDate>
-            <sparkle:version>1.3</sparkle:version>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/gabrielCastilloSerafim/sparkleUpdateTest/releases/download/v1.3/sparkleUpdateTest.zip" length="966702" type="application/octet-stream" sparkle:edSignature="UTQOwmHhcucqJmaImPiuAWfN1LnHDG1HYrsCCJ8vKLu816GgCtHtm3Eqy+p65O3VUjQYdCw8IuEMoCEMYPyLBw=="/>
+            <enclosure url="https://github.com/gabrielCastilloSerafim/sparkleUpdateTest/releases/download/v1.2/sparkleUpdateTest.zip" length="966702" type="application/octet-stream" sparkle:edSignature="UTQOwmHhcucqJmaImPiuAWfN1LnHDG1HYrsCCJ8vKLu816GgCtHtm3Eqy+p65O3VUjQYdCw8IuEMoCEMYPyLBw=="/>
         </item>
     </channel>
 </rss>
